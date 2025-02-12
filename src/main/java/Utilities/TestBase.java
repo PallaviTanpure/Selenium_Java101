@@ -15,6 +15,7 @@ public class TestBase {
 		DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("browserName", browser);
         capabilities.setCapability("browserVersion", "112");
+//       // changes added
         HashMap<String, Object> ltOptions = new HashMap<>();
         ltOptions.put("user", "pallavibtanpure4");
         ltOptions.put("accessKey", "3OCnmsbzuhZaor73uZDQmLkDUkqlzcDYEX9bQ8MhZOYDBhBDBU");
