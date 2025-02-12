@@ -16,8 +16,8 @@ public class TestBase {
         capabilities.setCapability("browserName", browser);
         capabilities.setCapability("browserVersion", "112");
         HashMap<String, Object> ltOptions = new HashMap<>();
-        ltOptions.put("user", "akashkore7676");
-        ltOptions.put("accessKey", "MFEMccJq6aNxEpTYsUCqgiqIwnb1Z7UpMt8H159WJn5bdutGjJ");
+        ltOptions.put("user", "pallavibtanpure4");
+        ltOptions.put("accessKey", "3OCnmsbzuhZaor73uZDQmLkDUkqlzcDYEX9bQ8MhZOYDBhBDBU");
         ltOptions.put("build", "LambdaTestCertification_SeleniumJava_77260");
         ltOptions.put("name", this.getClass().getName());
         ltOptions.put("platformName", "Windows 10");
